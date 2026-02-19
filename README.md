@@ -109,7 +109,7 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 
 ## 🏆 Coding Profiles
 
-- **CodeChef:** Solved 2045+ problems | Diamond (Daily Streak) | Silver (Contest Contender) | Diamond (Problem Solver) | 2-Star | Contest Rating 1423*
+- **CodeChef:** Solved 2045+ problems | Diamond (Daily Streak) | Silver (Contest Contender) | Diamond (Problem Solver) | 2-Star | Contest Rating 1489*
 - **LeetCode:** Solved 400+ problems, 50-Day Badge (2024), Contest Rating: 1456*
 - **GeeksforGeeks:** Solved 400+ problems, Institution Rank: 529, Contest Rating: 1583*
 - **HackerRank:** 5-Star in Problem Solving, C, SQL | Certified in Python (Basic) and SQL (Basic)
@@ -123,6 +123,7 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 - HTML, CSS, JavaScript – Infosys Springboard
 - Operating Systems – Infosys Springboard
 - Database Management Systems – Infosys Springboard
+- Fundamentals of Deep Learning - NIVIDIA
 
 ---
 
