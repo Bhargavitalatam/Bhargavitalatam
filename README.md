@@ -25,7 +25,7 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 ### Aditya University
 - **Degree:** B.Tech. (C.S.E)
 - **Duration:** 2023 — Present
-- **Performance:** 87.9% (9.54 CGPA)
+- **Performance:** 87.9% (9.46 CGPA)
 
 ### Sri Chaitanya Junior College
 - **Level:** Class 12th
@@ -51,7 +51,7 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 - HTML
 - CSS
 - JavaScript
-- React (Basics – currently learning)
+- Tailwind
 
 ### 🗄️ Databases
 - MySQL
@@ -59,9 +59,9 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 ### ⚙️ Developer Tools
 - Git
 - VS Code
+- Docker
+- PSQL
 
-### 🚀 Technologies & Platforms
-- IoT (20+ beginner projects completed)
 
 ---
 
@@ -94,21 +94,24 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 - Collaborated with a team to develop a women safety analytics solution focused on real-time surveillance and threat detection.
 - Designed core features for alerting and reporting systems using frontend tools and logic planning.
 
-### APGovt AI Hackathon – Computer Vision Challenge
-- Participated in a challenge on 'Smart Surveillance for Warehouses' using AI and computer vision techniques.
-- Contributed to planning and designing use-cases for detecting anomalies and movement in secured zones.
+### Student Mentor Intern 2025 – HCL GUVI (Aug 2025 – Sep 2025)
+- Mentored 40 teams during an internship with GUVI, guiding them in problem understanding and structured presentation preparation through online mentoring.
+- Evaluated final submissions, submitted assessment reports on time, and received a ₹3,000 stipend for successful completion.
 
 ### Technical Quiz Coordinator — Aditya University (Feb 2025)
 - Organized a technical quiz on Python as part of a personality development activity.
 - Managed event flow, created quiz content, and ensured active participation.
+### Adobe Hackathon 2025 – Round 2 Qualifier
+- Cleared Round 1 of a coding challenge with DSA-focused MCQs and problem-solving.
+- collaborated with the team to advance to Round 2 by demonstrating analytical thinking, accuracy, and coordination under time constraints.
 
 ---
 
 ## 🏆 Coding Profiles
 
-- **CodeChef:** Solved 1734+ problems | Diamond (Daily Streak) | Silver (Contest Contender) | Diamond (Problem Solver) | 2-Star | Contest Rating 1423*
-- **LeetCode:** Solved 105+ problems, 50-Day Badge (2024), Contest Rating: 1456*
-- **GeeksforGeeks:** Solved 128+ problems, Institution Rank: 529, Contest Rating: 1583*
+- **CodeChef:** Solved 2045+ problems | Diamond (Daily Streak) | Silver (Contest Contender) | Diamond (Problem Solver) | 2-Star | Contest Rating 1423*
+- **LeetCode:** Solved 400+ problems, 50-Day Badge (2024), Contest Rating: 1456*
+- **GeeksforGeeks:** Solved 400+ problems, Institution Rank: 529, Contest Rating: 1583*
 - **HackerRank:** 5-Star in Problem Solving, C, SQL | Certified in Python (Basic) and SQL (Basic)
 - **Code360 (Coding Ninjas):** Solved 122+ problems, Rating: 1474*
 
@@ -127,7 +130,6 @@ Aspiring Software Engineer and Frontend Developer with a strong foundation in Py
 
 - Smart India Hackathon – Participated at the National Level in 2024.
 - Earned multiple badges and high contest ratings across leading coding platforms.
-- Completed 20+ IoT projects, demonstrating consistent problem-solving ability.
 
 ---
 
