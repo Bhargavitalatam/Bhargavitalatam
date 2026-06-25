@@ -148,14 +148,6 @@ Designed a custom Gym-style RL environment and trained a PPO agent to stabilize 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinkBhargavitalatam\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinkBhargavitalatam\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: **[talatambhargavi@gmail.com](mailto:talatambhargavi@gmail.com)**
